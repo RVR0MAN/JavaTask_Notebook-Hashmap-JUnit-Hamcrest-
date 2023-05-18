@@ -1,2 +1,4 @@
-# Phonebook-based-on-Hashmap-
-Phonebook program. Based on Hashmap + some unit tests (homework)
+# Phonebook-based-on-Hashmap-JUnit + Hamcrest
+### Решение задачи по условию:  
+Написать Unit тесты с использованием JUnit + Hamcrest
+
